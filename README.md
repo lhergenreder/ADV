@@ -25,7 +25,7 @@ Los siguientes equipos son admitidos al momento:
 El programa fue desarrollado en la plataforma [Jupyter Notebook](https://jupyter.org/), en lenguaje Python 3.0. El mismo puede ejecutarse a través de [Binder](https://mybinder.org/), clickeando en el bóton [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lhergenreder/ADV/master).
 
 ## Cómo contribuir
-
+Los autores aceptan agradecidamente contribuciones a lhergenreder@ina.gov.ar o en GitHub a través de _Pull Requests_ o de la creación de _Issues_.
 
 ## Renuncia de responsabilidad
 _(en desarrollo)_
