@@ -17,7 +17,7 @@ El presente es un código interactivo que permite realizar una serie de procesam
    1. Intensidad de la turbulencia
 1. Determinar el tiempo óptimo de medición empleando la metodología _Moving block bootstrap_ ([García et al., 2006](https://doi.org/10.1007/s00348-005-0091-8))
 
-Los siguientes equipos son admitidos al momento:
+Los equipos admitidos al momento son:
 1. Sontek MicroADV de 16 MHz
 1. Nortek Vectrino II
 
