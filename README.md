@@ -15,7 +15,7 @@ El presente es un código interactivo que permite realizar una serie de procesam
    1. Varianzas
    1. Energía cinética turbulenta
    1. Intensidad de la turbulencia
-1. Determinar el tiempo óptimo de medición empleando la metodología _Moving block bootstrap_ (García et al., 2006)
+1. Determinar el tiempo óptimo de medición empleando la metodología _Moving block bootstrap_ ([García et al., 2006](https://doi.org/10.1007/s00348-005-0091-8))
 
 Los siguientes equipos son admitidos al momento:
 1. Sontek MicroADV de 16 MHz
@@ -23,6 +23,9 @@ Los siguientes equipos son admitidos al momento:
 
 ## Cómo utilizar la herramienta
 El programa fue desarrollado en la plataforma [Jupyter Notebook](https://jupyter.org/), en lenguaje Python 3.0. El mismo puede ejecutarse a través de [Binder](https://mybinder.org/), clickeando en el bóton [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lhergenreder/ADV/master).
+
+## Cómo contribuir
+
 
 ## Renuncia de responsabilidad
 _(en desarrollo)_
