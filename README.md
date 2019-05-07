@@ -1,5 +1,5 @@
 # Procesamiento de señales de ADV
-> Citar como: Hergenrneder, L. e Irigoyen, M. (2019). Generación de una herramienta de procesamiento de registros de ADV en lenguaje Python. _Informe LHA-378-2019_ Laboratorio de Hidráulica, Instituto Nacional del Agua, Argentina.
+> Hergenrneder, L. e Irigoyen, M. (2019). Generación de una herramienta de procesamiento de registros de ADV en lenguaje Python. _Informe LHA-378-2019_ Laboratorio de Hidráulica, Instituto Nacional del Agua, Argentina.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lhergenreder/ADV/master)
 
