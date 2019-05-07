@@ -6,5 +6,5 @@
 El presente es un código interactivo que permite realizar una serie de procesamientos básicos en registros de velocidad obtenidos por velocimetría acústica-Doppler. El programa permite:
 1. Evaluar la calidad del registro a través de los indicadores:
   1. Señal ruido (SNR)
-  2. Correlación
-  3. Cantidad de valores anómalos (spikes)
+  1. Correlación
+  1. Cantidad de valores anómalos (spikes)
