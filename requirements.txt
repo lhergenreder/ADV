@@ -1,6 +1,5 @@
 numpy
 matplotlib
 scipy
-random
 statsmodels
 math
