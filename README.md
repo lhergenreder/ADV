@@ -2,7 +2,8 @@
 _(en desarrollo)_
 > Hergenreder, L. e Irigoyen, M. (2019). Generación de una herramienta de procesamiento de registros de ADV en lenguaje Python. _Informe LHA-378-2019_ Laboratorio de Hidráulica, Instituto Nacional del Agua, Argentina.
 
-> Ejecutar la herramienta: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lhergenreder/ADV/master)
+> Ejecutar: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lhergenreder/ADV/master)
+> Ejecutar en JupyterLab: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/lhergenreder/ADV/master?urlpath=lab/tree/Procesamiento_ADV.ipynb)
 
 El presente es un código interactivo que permite realizar una serie de procesamientos básicos en registros de velocidad obtenidos por velocimetría acústica-Doppler. El programa permite:
 1. Identificar y reemplazar valores anómalos (spikes) empleando el critero _Phase Space Threshold_ ([Goring y Nikora, 2002](https://doi.org/10.1061/(ASCE)0733-9429(2002)128:1(117))).
