@@ -1,6 +1,5 @@
 _(en desarrollo)_
 
-<img align=\"right\" width=\"180\" height=\"87\" src=\"images/INALH_logo.png\"> 
 # INA-ADV
 
 > Hergenreder, L. e Irigoyen, M. (2019). Generación de una herramienta de procesamiento de registros de ADV en lenguaje Python. _Informe LHA-378-2019_ Laboratorio de Hidráulica, Instituto Nacional del Agua, Argentina.
