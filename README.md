@@ -13,7 +13,7 @@ El presente es un código interactivo que permite realizar una serie de procesam
    1. Señal ruido (SNR)
    1. Correlación
    1. Cantidad de valores anómalos (spikes)
-1. Extraer del ruido Doppler a través del _Análisis espectral_ ([Voulgaris y Trowbridge, 1998](https://doi.org/10.1175/1520-0426(1998)015<0272:EOTADV>2.0.CO;2)).
+1. Corregir las señales por ruido Doppler a través del _Análisis espectral_ ([Voulgaris y Trowbridge, 1998](https://doi.org/10.1175/1520-0426(1998)015<0272:EOTADV>2.0.CO;2)).
 1. Determinar los siguientes parámetros:
    1. Velocidades medias
    1. Varianzas
